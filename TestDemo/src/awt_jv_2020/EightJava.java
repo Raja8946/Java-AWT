@@ -1,15 +1,13 @@
-package awt_jv_2020;
-
 import java.awt.Color;
 import java.awt.Font;
 import java.awt.Frame;
 import java.awt.Graphics;
-import java.awt.event.ActionListener;
 import java.awt.event.WindowAdapter;
 import java.awt.event.WindowEvent;
 
-public class Eightgui extends Frame {
-	public Eightgui() {
+public class EightJava extends Frame {
+	
+	public EightJava() {
 		// TODO Auto-generated constructor stub
 		 setVisible(true);
 	   	 setSize(600,600);
@@ -51,8 +49,7 @@ public class Eightgui extends Frame {
 	
 	public static void main(String[] args)
 	{
-		Eightgui eightJava = new Eightgui();
+		EightJava eightJava = new EightJava();
 	}
 
 }
-

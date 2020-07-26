@@ -1,4 +1,3 @@
-package awt_jv_2020;
 import java.awt.Color;
 import java.awt.Font;
 import java.awt.Frame;
@@ -56,4 +55,3 @@ public class Ninegui extends Frame {
         	 Ninegui ninegui = new Ninegui();
          }
 }
-
