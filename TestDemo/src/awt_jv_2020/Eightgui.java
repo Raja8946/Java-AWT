@@ -8,7 +8,7 @@ import java.awt.event.ActionListener;
 import java.awt.event.WindowAdapter;
 import java.awt.event.WindowEvent;
 
-public class Eightgui extends Frame implements ActionListener {
+public class Eightgui extends Frame {
 	public Eightgui() {
 		// TODO Auto-generated constructor stub
 		 setVisible(true);
