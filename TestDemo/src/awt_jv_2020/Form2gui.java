@@ -9,6 +9,10 @@ import java.awt.event.WindowEvent;
 
 class Demo2 extends Frame implements ActionListener
 {
+	/**
+	 * 
+	 */
+	private static final long serialVersionUID = 1L;
 	Button b1;
 	TextField t1;
 	public Demo2() {

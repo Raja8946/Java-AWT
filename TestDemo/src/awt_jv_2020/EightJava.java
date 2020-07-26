@@ -7,6 +7,11 @@ import java.awt.event.WindowEvent;
 
 public class EightJava extends Frame {
 	
+	/**
+	 * 
+	 */
+	private static final long serialVersionUID = 1L;
+
 	public EightJava() {
 		// TODO Auto-generated constructor stub
 		 setVisible(true);

@@ -2,6 +2,10 @@ import java.awt.*;
 import java.awt.event.*;
 class Demo extends Frame
 {
+	/**
+	 * 
+	 */
+	private static final long serialVersionUID = 1L;
 	Label un,up;
 	TextField t1,t2;
 	Button b1;

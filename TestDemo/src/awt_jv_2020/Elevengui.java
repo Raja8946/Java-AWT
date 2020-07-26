@@ -7,7 +7,14 @@ import java.awt.event.WindowEvent;
 
 public class Elevengui extends Frame 
 {
-  public Elevengui() {
+  /**
+	 * 
+	 */
+	private static final long serialVersionUID = 1L;
+
+
+
+public Elevengui() {
 	// TODO Auto-generated constructor stub}
 	  setVisible(true);
  	 setSize(700,700);

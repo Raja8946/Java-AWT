@@ -3,7 +3,14 @@ import java.awt.event.WindowAdapter;
 import java.awt.event.WindowEvent;
  class Secondgui extends Frame 
 {
-     Secondgui()
+     /**
+	 * 
+	 */
+	private static final long serialVersionUID = 1L;
+
+
+
+	Secondgui()
      {
     	 setVisible(true);
     	 setSize(400,400);

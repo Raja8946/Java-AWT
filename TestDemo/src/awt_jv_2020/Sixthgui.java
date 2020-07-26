@@ -1,3 +1,5 @@
+package awt_jv_2020;
+
 import java.awt.Color;
 import java.awt.Font;
 import java.awt.Frame;
@@ -7,6 +9,11 @@ import java.awt.event.WindowEvent;
 
 public class Sixthgui extends Frame {
 	
+	/**
+	 * 
+	 */
+	private static final long serialVersionUID = 1L;
+
 	public Sixthgui() {
 		// TODO Auto-generated constructor stub
 

@@ -7,6 +7,14 @@ import java.awt.event.WindowEvent;
 
 public class Seventhgui extends Frame {
 	
+	/**
+	 * 
+	 */
+	private static final long serialVersionUID = 1L;
+
+
+
+
 	public Seventhgui() {
 		// TODO Auto-generated constructor stub
 

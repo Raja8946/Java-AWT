@@ -1,7 +1,14 @@
+package awt_jv_2020;
+
+
 import java.awt.*;
 import java.awt.event.*;
 class Demo1 extends Frame implements ActionListener
 {
+	/**
+	 * 
+	 */
+	private static final long serialVersionUID = 1L;
 	Button b1,b2,b3;
 	
     public Demo1() {

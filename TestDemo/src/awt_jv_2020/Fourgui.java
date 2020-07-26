@@ -3,7 +3,14 @@ import java.awt.event.WindowAdapter;
 import java.awt.event.WindowEvent;
  class Fourgui extends Frame 
 {
-     public Fourgui() {
+     /**
+	 * 
+	 */
+	private static final long serialVersionUID = 1L;
+
+
+
+	public Fourgui() {
 		// TODO Auto-generated constructor stub
 	
      

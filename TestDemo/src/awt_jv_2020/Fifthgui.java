@@ -6,6 +6,12 @@ import java.awt.event.WindowEvent;
 
 public class Fifthgui extends Frame {
 	
+	/**
+	 * 
+	 */
+	private static final long serialVersionUID = 1L;
+
+
 	public Fifthgui() 
 	{
 		// TODO Auto-generated constructor stub

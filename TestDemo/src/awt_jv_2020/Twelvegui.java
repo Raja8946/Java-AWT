@@ -1,8 +1,14 @@
+package awt_jv_2020;
+
 import java.awt.*;
 import java.awt.event.WindowAdapter;
 import java.awt.event.WindowEvent;
 public class Twelvegui extends Frame    //Border Layout(By Default)
 {
+	/**
+	 * 
+	 */
+	private static final long serialVersionUID = 1L;
 	//Button b1,b2;
 	//TextField t1,t2,t3;
 	//Label un;

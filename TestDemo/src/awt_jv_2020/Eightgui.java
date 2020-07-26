@@ -9,6 +9,11 @@ import java.awt.event.WindowAdapter;
 import java.awt.event.WindowEvent;
 
 public class Eightgui extends Frame {
+	/**
+	 * 
+	 */
+	private static final long serialVersionUID = 1L;
+
 	public Eightgui() {
 		// TODO Auto-generated constructor stub
 		 setVisible(true);

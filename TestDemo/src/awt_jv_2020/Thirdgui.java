@@ -1,9 +1,17 @@
+package awt_jv_2020;
+
 import java.awt.*;
 import java.awt.event.WindowAdapter;
 import java.awt.event.WindowEvent;
  class Thirdgui extends Frame 
 {
-     public Thirdgui() {
+     /**
+	 * 
+	 */
+	private static final long serialVersionUID = 1L;
+
+
+	public Thirdgui() {
 		// TODO Auto-generated constructor stub
 	
      

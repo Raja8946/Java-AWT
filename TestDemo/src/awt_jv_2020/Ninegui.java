@@ -6,7 +6,11 @@ import java.awt.event.WindowAdapter;
 import java.awt.event.WindowEvent;
 
 public class Ninegui extends Frame {
-         public Ninegui() {
+         /**
+	 * 
+	 */
+	private static final long serialVersionUID = 1L;
+		public Ninegui() {
 			// TODO Auto-generated constructor stub
         	 setVisible(true);
     	   	 setSize(600,600);
