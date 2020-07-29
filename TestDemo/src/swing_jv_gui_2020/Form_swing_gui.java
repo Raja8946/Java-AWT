@@ -13,6 +13,8 @@ class Demo5 extends JFrame implements ActionListener
 	public Demo5() 
 	{
 		// TODO Auto-generated constructor stub
+             Jlabel j1= new JLabel("Enter Your Name");
+              
 	}
 
 	@Override
