@@ -98,9 +98,6 @@ class Demo6 extends Frame implements ActionListener
 		
 	}
 	
-
-
-<<<<<<< HEAD
 public class Tictactoe1 {
 	    public static void main(String[] args)
 	    {
@@ -120,9 +117,7 @@ public class Tictactoe1 {
 	  	 			 System.exit(0);
 	  	 		 }
 	  			});
-	    }
-=======
-public class Tictactoe1 extends Frame implements ActionListner {
->>>>>>> branch 'master' of https://github.com/Raja8946/Java-AWT.git
+	    
 
+}
 }
