@@ -18,6 +18,7 @@ class Demo6 extends JFrame implements ActionListener
 	 */
 	private static final long serialVersionUID = 1L;
 	JButton[] buttons = new JButton[20];
+	String dataString[]= {"B","C","1/x","Sqr","7","8","9","/","4","5","6","*","1","2","3","-","0",".","=","+"};
 	JTextField tx1;
 	int k=0;
 	public Demo6() 
@@ -41,7 +42,7 @@ class Demo6 extends JFrame implements ActionListener
 		{
 		   for (int j = 0; j < 4; j++) 
 		   {
-			buttons[k]= new JButton() ;
+			buttons[k]= new JButton(dataString[k]) ;
 			buttons[k].setSize(w,h);
 			buttons[k].setLocation(x,y);
 			buttons[k].setFont(font);
@@ -55,7 +56,7 @@ class Demo6 extends JFrame implements ActionListener
 		   y=y+45;
 		}
 		   
-		   buttons[0].setLabel("B");
+	/*	   buttons[0].setLabel("B");
 		   buttons[1].setLabel("C");
 		   buttons[2].setLabel("1/x");
 		   buttons[3].setLabel("sqrt");
@@ -79,14 +80,16 @@ class Demo6 extends JFrame implements ActionListener
 		   buttons[17].setLabel(".");
 		   buttons[18].setLabel("=");
 		   buttons[19].setLabel("+");
+		   */
 		   
 		   
 		   
 		   
 		   
 		   
-		   
-		   setResizable(false);
+		  
+		
+		//setResizable(false);
 		   
 		
 	}

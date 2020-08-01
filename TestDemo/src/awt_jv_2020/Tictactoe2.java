@@ -71,7 +71,7 @@ class Demo8 extends Frame implements ActionListener
 	
 				if(
 						b[0].getLabel()=="X" && b[1].getLabel()=="X" && b[2].getLabel()=="X"
-			           || b[3].getLabel()=="X" && b[4].getLabel()=="X" && b[5].getLabel()=="X"
+			          || b[3].getLabel()=="X" && b[4].getLabel()=="X" && b[5].getLabel()=="X"
 			           || b[6].getLabel()=="X" && b[7].getLabel()=="X" && b[8].getLabel()=="X"
 					   || b[0].getLabel()=="X" && b[3].getLabel()=="X" && b[6].getLabel()=="X"
 				       || b[1].getLabel()=="X" && b[4].getLabel()=="X" && b[7].getLabel()=="X"
