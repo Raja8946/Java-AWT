@@ -20,6 +20,7 @@ public class Sample_string_taker
 	     for (int i = 0; i < string.length; i++) 
 	     {
 		          System.out.print(string[i]+" ");	
+		     /////////////////////////////////////////////
 		}
 	     
 	}
