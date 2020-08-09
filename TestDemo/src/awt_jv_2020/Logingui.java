@@ -1,3 +1,6 @@
+package awt_jv_2020;
+
+
 import java.awt.*;
 import java.awt.event.*;
 class Demo extends Frame
