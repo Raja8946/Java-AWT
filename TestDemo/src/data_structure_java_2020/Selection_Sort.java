@@ -10,24 +10,25 @@ public class Selection_Sort
 		Scanner scanner= new Scanner(System.in);
 	     System.out.print("Enter the array size\n");
 	     int size= scanner.nextInt();
-	     //int min,temp=0;
-	     //int[] array=new int[size];
 	     int min;
+	     //int temp=0;
+	     //int[] array=new int[size];
+	   //  int min;
 	     String temp="";
 	     String[] array= new String[size];
 	     int i,j;
 	     System.out.print("Enter elements into arraay\n");
 	     for(i=0;i<array.length;i++)
 	     {
-	    	// array[i]=scanner.nextInt();
-	    	 array[i]= scanner.next();
+	    	//array[i]=scanner.nextInt();
+	     array[i]= scanner.next();
 	     }
 	     for(i=0;i<array.length;i++)
 	     {
 	    	 min=i;
 	    	 for(j=i+1;j<array.length;j++)
 	    	 {
-	    		// if(array[j]<array[min])
+	    		//if(array[j]<array[min])
 	    		 if(array[j].compareTo(array[min])<0)
 	    		 {
 	    			 min=j;
@@ -40,7 +41,7 @@ public class Selection_Sort
 	     System.out.print("Array after sorting\n");
 	     for(i=0;i<array.length;i++)
 	     {
-	    	 System.out.println(array[i] +" ");
+	    	 System.out.println(array[i] );
 	     }
 	}
 }
