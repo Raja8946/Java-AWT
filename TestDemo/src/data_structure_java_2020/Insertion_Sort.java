@@ -20,7 +20,7 @@ public class Insertion_Sort
 	    	   
 	       }
 	       
-	       for(i=0;i<a.length;i++)
+	       for(i=1;i<a.length;i++)
 	       {
 	    	   temp=a[i];
 	    	   j=i;

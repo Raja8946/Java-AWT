@@ -47,6 +47,7 @@ int[] array;
 	    {
 	    	temparr[i]=array[i];
 	    } 
+	    /// Merge Sort method-----
 	    int i= lowerindex;
 		 int j= middle+1;
 		 int k= lowerindex;
