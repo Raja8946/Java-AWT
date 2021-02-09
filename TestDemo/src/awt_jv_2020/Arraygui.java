@@ -46,7 +46,7 @@ public class Arraygui
 {
    public static void main(String[] args)
    {
-	   Demo7 d7=new Demo7();
+	   Demo7 d7=new Demo7();                
    	
  	  d7.setVisible(true);
 		d7.setSize(300,220);

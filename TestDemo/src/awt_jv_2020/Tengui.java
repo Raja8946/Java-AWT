@@ -16,7 +16,7 @@ public class Tengui  extends Frame
 	public Tengui() {
 		// TODO Auto-generated constructor stub
     	 setVisible(true);
-	   	 setSize(600,600);
+	   	 setSize(500,500);
 	   	 setLocation(20,200);
 	    setBackground(Color.white);
 	   	// setForeground(Color.BLUE);

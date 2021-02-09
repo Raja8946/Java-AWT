@@ -1,3 +1,5 @@
+package awt_jv_2020;
+
 import java.awt.Color;
 import java.awt.Frame;
 import java.awt.Graphics;

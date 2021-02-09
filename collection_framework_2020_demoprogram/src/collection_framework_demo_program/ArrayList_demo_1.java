@@ -4,8 +4,8 @@ import java.io.Serializable;
 import java.util.ArrayList;
 import java.util.LinkedList;
 import java.util.RandomAccess;
-
-/*public class ArrayList_demo_1 {
+/*
+public class ArrayList_demo_1 {
 	public static void main(String[] args) {
 	
 		ArrayList<Object> list = new ArrayList<Object>();
@@ -17,15 +17,25 @@ import java.util.RandomAccess;
 		list.remove(2);
 		list.add(2, "M");
 		list.add("N");
+		list.set(3, "P");
+		list.add("A");
+		list.add("A");
+		System.out.println(list.indexOf("A"));
+		System.out.println(list.lastIndexOf("A"));
 		System.out.println(list);
+		System.out.println(list.get(5));
+		System.out.println(list.listIterator());
+		System.out.println(list.listIterator(0));
+		System.out.println(list.iterator());
+
 	}
 
-}*/
+}
+*/
 
 
 
 
-/*
 public class ArrayList_demo_1
 {
 	public static void main(String[] args) {
@@ -40,4 +50,3 @@ public class ArrayList_demo_1
 		System.out.println(l2 instanceof RandomAccess);
 	}
 }
-*/
